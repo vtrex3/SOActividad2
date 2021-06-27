@@ -1,0 +1,4 @@
+Armando;Elorriaga;19-03-82;900900900;600600600;12341234;armando.elorriaga@gmail.com;Calle 1;Primero A;Madrid;28800
+Vic;Coll;12-02-92;922922922;62622222;11111111;vicking@gmail.com;Calle 21;3 A;Madrid;28801
+aa;a;a;a;a;a;a;a;a;a;a
+b;b;b;b;3;b;232;2;2;3;11231
