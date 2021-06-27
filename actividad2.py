@@ -5,7 +5,7 @@ import logging
 import os
 logging.basicConfig(filename='app.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s')
 
-
+#Clases
 class Direccion:
     def __init__ (self):
         self.__Calle = ""
